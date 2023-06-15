@@ -1,9 +1,9 @@
 #include <stdio.h>
-/** 
- * main -4-puts.c
- * discription -write a program that prints exactly
+/**
+ * main - 4-puts.c
+ * description - Write a C program that prints exactly
  *
- * return: always 0 (sucess)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
@@ -11,4 +11,3 @@ int main(void)
 
         return (0);
 }
-
